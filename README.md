@@ -1,3 +1,10 @@
+## Random iOS write-ups
+_If Burbulla saw what I tried to pass off as linear algebra in these two posts, he'd probably try and take my iron ring away_
+* [How do basic 3D transforms of iOS views work under the hood?](https://thealexanderlee.com/blog/how-do-3d-transforms-of-ios-views-work-under-the-hood)
+* [3D transforms on iOS under the hood part II: perspective shifts](https://thealexanderlee.com/blog/3d-transforms-on-ios-under-the-hood-part-2-perspective-shifts)
+
+## Random stat generator that is definitely undercounting but at least it looks nice
+
 [![Alex's GitHub stats](https://github-readme-stats-psi-coral.vercel.app/api?username=alexslee&count_private=true&include_all_commits=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
