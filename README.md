@@ -3,9 +3,11 @@ _If Burbulla saw what I tried to pass off as linear algebra in these two posts, 
 * [How do basic 3D transforms of iOS views work under the hood?](https://thealexanderlee.com/blog/how-do-3d-transforms-of-ios-views-work-under-the-hood)
 * [3D transforms on iOS under the hood part II: perspective shifts](https://thealexanderlee.com/blog/3d-transforms-on-ios-under-the-hood-part-2-perspective-shifts)
 
-## Open-source Swift Package I wrote
+## Open-source Swift Packages I wrote
 * [DesignReviewer](https://github.com/alexslee/DesignReviewer): cut down on Xcode lag, and debug/make tweaks to your UI right from your application
     *  Complete with an implementation of the 3D view hierarchy experience you get from Xcode, written with incremental `CALayer` transforms + `CAAnimation` -- handily enough, those transformations are [documented in the code](https://github.com/alexslee/DesignReviewer/blob/0d36b57f57d3581bc44defb43ec01d70dc0ca2cb/Sources/DesignReviewer/Exploded%20Hierarchy/DesignReviewExplodedHierarchyContainerView.swift#L74) + the fundamentals are written in the articles above
+ *  [Scintillate](https://github.com/alexslee/Scintillate): a lightweight, UIKit+AppKit-friendly way to either mask content or show a loading state. Think: SwiftUI's 'redacted' modifier, for non-SwiftUI applications on iOS + macOS.
+    *  Another use case for the recursive view hierarchy traversal logic from `DesignReviewer`, along with some simple `CALayer` + `CAAnimation` management.
 
 ## Random stat generator that is definitely undercounting but at least it looks nice
 
