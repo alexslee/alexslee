@@ -2,6 +2,7 @@
 _If Burbulla saw what I tried to pass off as linear algebra in these two posts, he'd probably try and take my iron ring away_
 * [How do basic 3D transforms of iOS views work under the hood?](https://thealexanderlee.com/blog/how-do-3d-transforms-of-ios-views-work-under-the-hood)
 * [3D transforms on iOS under the hood part II: perspective shifts](https://thealexanderlee.com/blog/3d-transforms-on-ios-under-the-hood-part-2-perspective-shifts)
+* [Sawing off more than we can chew: An investigation of how LLDB handles logging streams in real-time](https://www.thealexanderlee.com/blog/sawing-off-more-than-we-can-chew-an-investigation-of-how-lldb-handles-logging-streams-in-real-time)
 
 ## Open-source Swift Packages I wrote
 * [DesignReviewer](https://github.com/alexslee/DesignReviewer): cut down on Xcode lag, and debug/make tweaks to your UI right from your application
